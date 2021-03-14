@@ -1,11 +1,11 @@
 ### Live Long And Prosper :vulcan_salute:
-
+```javascript
 YouWill(NeedNo){ 
  ExampleAt=ALL;
  if (YouAre(GOOD))
   atWriting(YourCODE);
 }
-
+```
 <pre>
                      .......................... 
                  ................................... 
